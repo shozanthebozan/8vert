@@ -1,8 +1,15 @@
-## v2.0.1
-### I put newlines in the input text to make it cleaner, and deleted comments in 8vert.py on main branch.
-## v2.0.0
-### peacexf optimised the code in this to be exteremely fast
-## v1.0.1
-### A few small changes
-## v1.0.0
-### Finally finished all units. Don't download from releases untill I make c binaries because before v1.0.0 I didn't really know how to use github and git properly.
+# Changelog
+
+All notable changes to this project are documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+
+### Added
+
+- Project documentation under `docs/`, GitHub issue and pull request templates,
+  and CI quality checks.
+
+<!-- Add new entries above this line, newest first, per release. -->
